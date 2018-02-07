@@ -41,5 +41,4 @@ def play(input)
     turn(input)
     input += 1
   end
-
 end
