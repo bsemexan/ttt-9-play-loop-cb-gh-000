@@ -39,5 +39,7 @@ end
 def play(input)
   until input == 9
     turn(input)
+    input += 1
+  end
 
 end
